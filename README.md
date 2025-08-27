@@ -2,7 +2,6 @@
 <a name="top"></a>
 # 🏆 Prosod’IA – ESIEE Paris Innovation Award 2024  
 
-
 <p align="center">
     <img src="./docs/logo.png" alt="ProsodIA Logo" width="500"/>
 </p>
@@ -52,10 +51,13 @@ Développer une application d’aide au **diagnostic précoce des Troubles du Sp
 ## 🚀 Résultats  
 - Fiabilité : **93%** (contre ~86% sur travaux précédents à l’ESIEE)  
 - Démonstration que des **marqueurs précoces** sont détectables dans la voix des enfants atteints de TSA  
-- Déploiement sous forme d’application fonctionnelle (Windows)  
+- Déploiement sous forme d’application fonctionnelle (Windows et)  
 
 ## 📸 Aperçu de l’application
 
+Déploiement : grâce à py2app et auto-py-to-exe (PyInstaller), l’application est disponible en exécutables autonomes (.exe Windows, .app Mac), sans installation Python requise, faciles à distribuer et à utiliser.
+
+L’interface inclut un menu principal, une page d’import audio et une page de résultats avec spectrogramme.
 <div align="center">
     <img src="./docs/app.png" alt="ProsodIA App" width="400"/>
     <br><br>
@@ -67,14 +69,10 @@ Développer une application d’aide au **diagnostic précoce des Troubles du Sp
 👉 Le code source complet est disponible sur le **[GitLab de l’ESIEE Paris](https://git.esiee.fr/lalieut/prosod-ia)**.  
 Ce repo GitHub sert de vitrine publique au projet.  
 
-
-
 ## 📜 Références  
 - [Rapport complet du projet (PDF)](./docs/rapport.pdf)  
 - [Affiche de présentation (PDF)](./docs/affiche.pdf) 
 - [Vidéo de présentation (YouTube)](https://www.youtube.com/watch?v=wFQNDkl7yT4)
-
-
 
 ---
 
