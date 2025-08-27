@@ -7,7 +7,14 @@
     <img src="./docs/logo.png" alt="ProsodIA Logo" width="500"/>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+
+<p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+<br>
 
 <p align="center"><i>Projet académique de 3ᵉ année (Durée : 4 mois) – Lauréat du <b>Prix de l’Innovation 2024</b>, remis par Éric Larchevêque (Co-fondateur de Ledger).</i></p>
 
@@ -53,13 +60,8 @@ Développer une application d’aide au **diagnostic précoce des Troubles du Sp
     <img src="./docs/app.png" alt="ProsodIA App" width="400"/>
     <br><br>
     <img src="./docs/app2.png" alt="ProsodIA App 2" width="300" style="margin: 0 20px;"/>
-    <img src="./docs/app3.png" alt="ProsodIA App 3" width="350" style="margin: 0 20px;"/>
-<div align="center">
-    <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python"/>
-    <img src="https://img.shields.io/badge/Framework-Keras-red?logo=keras"/>
-    <img src="https://img.shields.io/badge/License-MIT-green"/>
+    <img src="./docs/app3.png" alt="ProsodIA App 3" width="390" style="margin: 0 20px;"/>
 </div>
-
 
 ## 📂 Accès au code  
 👉 Le code source complet est disponible sur le **[GitLab de l’ESIEE Paris](https://git.esiee.fr/lalieut/prosod-ia)**.  
