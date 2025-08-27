@@ -70,8 +70,7 @@ L’interface inclut un menu principal, une page d’import audio et une page de
 Ce repo GitHub sert de vitrine publique au projet.  
 
 ## 📜 Références  
-- [Rapport complet du projet (PDF)](./docs/rapport.pdf)  
-- [Affiche de présentation (PDF)](./docs/affiche.pdf) 
+- [Affiche de présentation (PDF)](./docs/Affiche.pdf) 
 - [Vidéo de présentation (YouTube)](https://www.youtube.com/watch?v=wFQNDkl7yT4)
 
 ---
