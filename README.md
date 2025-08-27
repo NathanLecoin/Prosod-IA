@@ -55,15 +55,28 @@ Développer une application d’aide au **diagnostic précoce des Troubles du Sp
 
 ## 📸 Aperçu de l’application
 
-Déploiement : grâce à py2app et auto-py-to-exe (PyInstaller), l’application est disponible en exécutables autonomes (.exe Windows, .app Mac), sans installation Python requise, faciles à distribuer et à utiliser.
+L’application **Prosod’IA** a été déployée en exécutables autonomes (.exe Windows, .app Mac) grâce à *py2app* et *auto-py-to-exe* (PyInstaller).  
+➡️ Aucun besoin d’installation Python, une distribution simplifiée pour les médecins et chercheurs, et un code source protégé.  
 
-L’interface inclut un menu principal, une page d’import audio et une page de résultats avec spectrogramme.
-<div align="center">
-    <img src="./docs/app.png" alt="ProsodIA App" width="400"/>
-    <br><br>
-    <img src="./docs/app2.png" alt="ProsodIA App 2" width="300" style="margin: 0 20px;"/>
-    <img src="./docs/app3.png" alt="ProsodIA App 3" width="390" style="margin: 0 20px;"/>
-</div>
+L’interface se compose de trois écrans principaux :  
+1. **Menu principal** – accueil clair et ergonomique  
+2. **Import audio** – chargement d’un fichier .wav à analyser  
+3. **Résultats** – affichage du spectrogramme et d’un pourcentage de suspicion de TSA  
+
+<p align="center">
+  <img src="./docs/app.png" alt="ProsodIA App Main" width="400"/>
+</p>
+
+<p align="center">
+  <img src="./docs/app2.png" alt="ProsodIA Import Audio" width="350" style="margin: 10px;"/>
+  <img src="./docs/app3.png" alt="ProsodIA Results" width="350" style="margin: 10px;"/>
+</p>
+
+## 👨‍💻 Équipe  
+
+Anaelle Mariette, Louka Morandi, Livio Daninthe, Nathan Lecoin, Tom Lalieu, Lila Razani
+
+**Encadrement** : *Nadia Madaoui* – Enseignante-chercheuse, ESIEE Paris  
 
 ## 📂 Accès au code  
 👉 Le code source complet est disponible sur le **[GitLab de l’ESIEE Paris](https://git.esiee.fr/lalieut/prosod-ia)**.  
