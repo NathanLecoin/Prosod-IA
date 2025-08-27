@@ -68,7 +68,7 @@ L’interface se compose de trois écrans principaux :
 </p>
 
 <p align="center">
-  <img src="./docs/app2.png" alt="ProsodIA Import Audio" width="350" style="margin: 10px;"/>
+  <img src="./docs/app2.png" alt="ProsodIA Import Audio" width="300" style="margin: 10px;"/>
   <img src="./docs/app3.png" alt="ProsodIA Results" width="350" style="margin: 10px;"/>
 </p>
 
